@@ -397,4 +397,79 @@
         "SCÈNE"
     ]
 }
+{
+    "id": "tantara_003",
+    "titre": "Fanasin'ny tany 02",
+    "actes": [
+        {
+            "id": 1,
+            "lieu": "ACTE1 (Ao am-piasana)",
+            "contexte": "Jery sy ny mpiara miasa aminy(Lehilahy 2 + vehivavy 1)",
+            "dialogues": [
+                {
+                    "perso": "Mpiara-miasa(Ratsy saina)",
+                    "texte": "Fa inona ity maka 19 ity, efa tapitra ny ora mbola eo ihany \n Ajanony any io fa mandraraka! \n Tsy aleonao mba mivoaka kely any... \n sady patron anie tsy ao ehh!! Mba mialaala kely aloha."
+                },
+                {
+                    "perso": "Jery",
+                    "texte": "Na tsy eo ary Patron dia tsy maintsy miasa, ny Tenin'ny Tompo miteny hoe izay rehetra ataonareo dia ataovy @ fitiavana, Mamita asa kely aho dia andeha hisakafo aho"
+                },
+                {
+                    "perso": "SCÈNE",
+                    "texte": " Mamita asa i Jery aveo lasa nisakafo"
+                },
+                {
+                    "perso": "SCÈNE",
+                    "texte": "Misy olona tonga hividy zavatra"
+                },
+                {
+                    "perso": "Mpiara-miasa(Ratsy saina)",
+                    "texte": "MANDRAY IREO OLONA TONGA IVIDY \n SADY NAKA TOMBONY AMBONY BE"
+                },
+                {
+                    "perso": "Mpividy",
+                    "texte": "Gaga fa niakatra be ny vidin'entana \n Ary lasa aiza ilay mpiasa iray iny(Jery)? \n fa iny foana no fangalanay entana"
+                },
+                {
+                    "perso": "Mpiara-miasa(Ratsy saina)",
+                    "texte": "Efa voaroaka iny fa nadikodina vola, \n tsy ato intsony izy"
+                },
+                {
+                    "perso": "Mpividy",
+                    "texte": "Tsy mety ilay prix fa aleo mitady hafa"
+                },
+                {
+                    "perso": "Mpiara-miasa(Ratsy saina)",
+                    "texte": "Nifamaly fa naka tombony 50% kosa ve!!!"
+                },
+                {
+                    "perso": "SCÈNE",
+                    "texte": "Niverina avy nisakafo i Jery"
+                },
+                {
+                    "perso": "Mpividy",
+                    "texte": "Niverina hividy ilay entana \n Fa angaha hianao mbola ato fa tsy hoe voaroaka? \n Nanontany prix dia gaga fa tsy niakatra akory"
+                },
+                {
+                    "perso": "SCÈNE",
+                    "texte": "Nampidirina tao anaty camion ny entana\n Hitan'izy 3 mianadahy izany dia tezitra zareo fa hoe lasan'i Jery ny Kil..."
+                }
+            ]
+        }
+        
+    ],
+    "personnages": [
+        "Patron",
+        "Jery",
+        "Gaston",
+        "Vola",
+        "Mpiara-miasa(Ratsy saina)",
+        "Mpiara-miasa(tsara fanahy)",
+        "Maman'i Vola",
+        "Mme Patron",
+        "Mpividy",
+        "Gardien",
+        "SCÈNE"
+    ]
+}
 ]
