@@ -1,475 +1,301 @@
 
-[ 
-{
-    "id": "tantara_001",
-    "titre": "DIA HAMALY FATY VE",
-    "actes": [
-        {
-            "id": 1,
-            "lieu": "ACTE1 (Ao am-piasana)",
-            "contexte": "Jery sy ny mpiara miasa aminy(Lehilahy 2 + vehivavy 1)",
-            "dialogues": [
-                {
-                    "perso": "Mpiara-miasa(Ratsy saina)",
-                    "texte": "Fa inona ity maka 19 ity, efa tapitra ny ora mbola eo ihany \n Ajanony any io fa mandraraka! \n Tsy aleonao mba mivoaka kely any... \n sady patron anie tsy ao ehh!! Mba mialaala kely aloha."
-                },
-                {
-                    "perso": "Jery",
-                    "texte": "Na tsy eo ary Patron dia tsy maintsy miasa, ny Tenin'ny Tompo miteny hoe izay rehetra ataonareo dia ataovy @ fitiavana, Mamita asa kely aho dia andeha hisakafo aho"
-                },
-                {
-                    "perso": "SCÈNE",
-                    "texte": " Mamita asa i Jery aveo lasa nisakafo"
-                },
-                {
-                    "perso": "SCÈNE",
-                    "texte": "Misy olona tonga hividy zavatra"
-                },
-                {
-                    "perso": "Mpiara-miasa(Ratsy saina)",
-                    "texte": "MANDRAY IREO OLONA TONGA IVIDY \n SADY NAKA TOMBONY AMBONY BE"
-                },
-                {
-                    "perso": "Mpividy",
-                    "texte": "Gaga fa niakatra be ny vidin'entana \n Ary lasa aiza ilay mpiasa iray iny(Jery)? \n fa iny foana no fangalanay entana"
-                },
-                {
-                    "perso": "Mpiara-miasa(Ratsy saina)",
-                    "texte": "Efa voaroaka iny fa nadikodina vola, \n tsy ato intsony izy"
-                },
-                {
-                    "perso": "Mpividy",
-                    "texte": "Tsy mety ilay prix fa aleo mitady hafa"
-                },
-                {
-                    "perso": "Mpiara-miasa(Ratsy saina)",
-                    "texte": "Nifamaly fa naka tombony 50% kosa ve!!!"
-                },
-                {
-                    "perso": "SCÈNE",
-                    "texte": "Niverina avy nisakafo i Jery"
-                },
-                {
-                    "perso": "Mpividy",
-                    "texte": "Niverina hividy ilay entana \n Fa angaha hianao mbola ato fa tsy hoe voaroaka? \n Nanontany prix dia gaga fa tsy niakatra akory"
-                },
-                {
-                    "perso": "SCÈNE",
-                    "texte": "Nampidirina tao anaty camion ny entana\n Hitan'izy 3 mianadahy izany dia tezitra zareo fa hoe lasan'i Jery ny Kil..."
-                }
-            ]
-        },
-        {
-            "id": 2,
-            "lieu": "ACTE2 (Ao am-piasana)",
-            "contexte": "Jery sy ny mpiara miasa aminy, Patron, Mme Patron",
-            "dialogues": [
-                {
-                    "perso": "Mpiara-miasa(Ratsy saina)",
-                    "texte": "(TEZITRA)\n Andao atao amin'ny fanaovana azy iny Jery iny, potehina ny fiainany fa mianakendry ato am-piasana ato."
-                },
-                {
-                    "perso": "SCÈNE",
-                    "texte": "Miditra i Patron dia gaga mahita azy 3 mianadahy"
-                },
-                {
-                    "perso": "Patron",
-                    "texte": "Toa laozanareo miresaka fotsiny fa tsy miasa?"
-                },
-                {
-                    "perso": "Mpiara-miasa(Ratsy saina)",
-                    "texte": "Avy niasa be de maka aina, vao avy nampiakatra entana be @ taonina tao anaty camion."
-                },
-                {
-                    "perso": "Patron",
-                    "texte": "Nanontany an'i Jery??"
-                },
-                {
-                    "perso": "Mpiara-miasa(Ratsy saina)",
-                    "texte": "Zay indrindra... \n I Jery tena tsy mamely...\n Hitanao , mody mitarika fivavahana fivavahana nefa mikomy no ataony ao, tsy mahavelona hono ny karamana omenao eh! Manaratsy anao no ataony ao!"
-                },
-                {
-                    "perso": "SCÈNE",
-                    "texte": "Gaga patron fa tsy nampoinziny hoe jery ..."
-                },
-                {
-                    "perso": "Mpiara-miasa(Ratsy saina)",
-                    "texte": "Sady l menatra aho patron @ maha vehivavy ahy an! Nefa ho lazaiko ihany hatramin'ny vadinao anie patron ka adaladalainy el taraiky aminy mihitsy eh!\n Mitady ho lasany mihitsy ny fahitako azy!"
-                },
-                {
-                    "perso": "SCÈNE",
-                    "texte": "Miditra Mme Patron..."
-                },
-                {
-                    "perso": "Mme Patron",
-                    "texte": "Ary toa laozanao mampiresaka mpiasa fotsiny\nAiza l Jery ! mba teneno aho rehefa tonga eo izy dia avelao hiasa ny mpiasa fa aza ampiresahanao fontsny eo!"
-                },
-                {
-                    "perso": "SCÈNE",
-                    "texte": "Mangala-pijery an'l Patron izy telo mianadahy..."
-                },
-                {
-                    "perso": "Patron",
-                    "texte": "Lasa daholy miasa any ! haingana mivoaka daholo sady mitady hidaroka !\nhaingana fa aza midororororo eo dia asaivo makaty l Jery"
-                },
-                {
-                    "perso": "Jery",
-                    "texte": "Nampiantso ahy hono Tompoko !"
-                },
-                {
-                    "perso": "Patron",
-                    "texte": "Ye ! zao an ! ataovy daholo ny compte rehetra ao ! dia passio amin'ny tompon'andraikitra an dia ataoy koa ny comptenao rehetra , izay karama mbola tsy voaloha fa ho efaiko daholo, raofy daholo ny entanao dia lasa!"
-                },
-                {
-                    "perso": "Jery",
-                    "texte": "Tsy azoko patron fa misy inona !"
-                },
-                {
-                    "perso": "Patron",
-                    "texte": "Tsy misy fanazavana fa ataovy haingana izay dia mandalova eto maka ny volanao rehetra ! mazava"
-                },
-                {
-                    "perso": "Jery",
-                    "texte": "Jesosy ô ! tena tsy azoko hoe fa maninona ............"
-                }
-            ]
-        },
-
-        {
-            "id": 3,
-            "lieu": "ACTE3 (Ao an-tranon'i Jery)",
-            "contexte": "Jery sy Vola, Mpiara-miasa(tsara fanahy)",
-            "dialogues": [
-                {
-                    "perso": "SCÈNE",
-                    "texte": "Jery mamaky Baiboly"
-                },
-                {
-                    "perso": "Vola",
-                    "texte": "Efa izao no nahavoaroaka anao tamin'ny asanao koa mbola zao ihany no atao ! tsy mba leom-boananana mihitsy ! \nZao an ! vola an mila vola, ny fiainana tsy vita amin'izao koa noho izany an , mivoaha hianao mitady vola fa tsy laozanao eo ! andeha aho an , tandremo sao mbola mijanona eo fa mahita asa hianao tonga eo aho ! mazava an"
-                },
-                {
-                    "perso": "Jery",
-                    "texte": "Ol ry vola a , jereo ange ny zanakindry mitomany ery ! mba jereo na dia ilay zaza ary! \n(MIVAVAKA I JERY SADY MITOMANY)"
-                },
-
-                {
-                    "perso": "SCÈNE",
-                    "texte": "Miditra mampahery an'i Jery ireo mpiara-miasa(tsara fanahy) aminy"
-                },
-
-               {
-                    "perso": "Mpiara-miasa(tsara fanahy)",
-                    "texte": "olona mahitsy hianao...\n Ity misy tsipaipaika kely nataon'ny mpiara-miasa ho fanampiana anao , solontena izahay nakaty fa mivavaka ho anao daholo ny mpiara - miasa rehetra...."
-                }, 
-
-                {
-                    "perso": "SCÈNE",
-                    "texte": "MIVAVAKA, MIDITRA I VOLA"
-                },
-
-                {
-                    "perso": "Vola",
-                    "texte": "Mbola izao ihany no hatao ato?! Efa izao no nahavoaroaka dia mbola mivavaka ihany! Andeha aho an! Tsy fahananao anana eto foana aho an, efa maintso hatramin'ny tsinaiko ...lasa aho(sady mangoron'entana) sady Gaston efa miandry ahy"
-                },
-
-                {
-                    "perso": "Jery",
-                    "texte": "Vola an , mijanona moa e! jereo ange ny zanantsika eh !"
-                },
-
-                {
-                    "perso": "SCÈNE",
-                    "texte": "LASA I VOLA, MITOMANY NY ZAZA, MIVAVAKA I JERY"
-                }
-            ]
-        },
-
-        {
-            "id": 4,
-            "lieu": "ACTE4 (Ao an-tranon'l Gaston)",
-            "contexte": "Gaston, Vola, Mpiara-miasa(tsara fanahy), Maman'i Vola, Mpiara-miasa(Ratsy fanahy)",
-            "dialogues": [
-                {
-                    "perso": "SCÈNE",
-                    "texte": "Faly ery l vola migalabona @ haren' l Gaston : trano , fiara , vola sy harena"
-                },
-
-                {
-                    "perso": "Mpiara-miasa(tsara fanahy)",
-                    "texte": "Mba sahy ndry ka: lehilahy tsotra, manam-panahy sady mivavaka , raha mbola tsy nanam-bady aho mba tena efa saika latsaka taminy mihitsy ! .......mbola hanenina ndry......lasa izy"
-                },
-
-                {
-                    "perso": "SCÈNE",
-                    "texte": "MANDONDONA I NENY"
-                },
-
-                {
-                    "perso": "Maman'i Vola",
-                    "texte": "Tsy te hiditra akory aho fa toka-trano imaso fahatavetana eo imason'Andriamanitra! mba mahalala menatr'olona! zao an! Hilaza amin'dry aho hoe marary ny zanakindry! malahelo andry! marary fo! Raha mba fon-dreny ihany dia mba jereo ilay zaza ! zay fa lasa aho Isao hanenenana ..."
-                },
-
-                {
-                    "perso": "Vola",
-                    "texte": "Fika fotsiny izany! izaho indray dia tsy hiverina any izany"
-                },
-
-                {
-                    "perso": "SCÈNE",
-                    "texte": "Miditra gaston mamo, mitsena l Vola dia gaga fa nahita loko-mena tamin'ny tarehiny dia tamin'ny vozon'akanjony"
-                },
-
-                {
-                    "perso": "Vola",
-                    "texte": "Fa inona ireny???"
-                },
-
-                {
-                    "perso": "Gaston",
-                    "texte": "Bandy tsy maitsy manao an'izany! mandeha mirevy dia manala azy! hianao no adala no te hijanona eo!\n Ny anao adalana ny te hanary ny vady aman-janakao! vehivavy kely saina tsy misy hilàvana azy! Lasa mandeha any fa tsy..........."
-                },
-
-                {
-                    "perso": "SCÈNE",
-                    "texte": "MIDITRA NY MPIARA-MIASA AMIN'I GASTON"
-                },
-
-                {
-                    "perso": "Mpiara-miasa(Ratsy saina)",
-                    "texte": "Andao hitsoaka fa tratra daholo ny hosoka tamin'ny bokim-bola rehefa natao ny audit i"
-                },
-
-                {
-                    "perso": "SCÈNE",
-                    "texte": "NISAVA NY TOAKAN'I GASTON ARY LASA NITSOAKA"
-                },
-
-                {
-                    "perso": "Vola",
-                    "texte": "Gaston!! avia fa ho aiza ianao ........."
-                },
-
-                {
-                    "perso": "SCÈNE",
-                    "texte": "NAHIFIK'I GASTON I VOLA"
-                }
-
-            ]
-
-        },
-
-        {
-            "id": 5,
-            "lieu": "ACTE FAMARANANA (Ao am-piasana)",
-            "contexte": "Patron, Jery, Mpiara-miasa, Gardien, Vola",
-            "dialogues": [
-                {
-                    "perso": "SCÈNE",
-                    "texte": "Ao am-piasana misy fety nataon'ny talen'ny orinasa"
-                },
-
-                {
-                    "perso": "Patron",
-                    "texte": "Natao izao fety izao mba hanonerana ireo zavatra nahazo an'l Jery rehetra, rehefa natao mantsy ny fanadihadiana rehetra dia hita fa tsy i Jery no  tokony ho noroahina! \n \nFa nisy fanasoketana azy be dia be tao dia mifona aminao aho! Ary ankehitriny dia fantatro fa mendrika ho anao ny hitantana ny orinasa , ho tale jeneraly ary aloako daholo ny vola rehetra tokony noraisinao nandritr'izay tsy nandraisanao karama izay! \n(faly ny rehetra)"
-                },
-
-                {
-                    "perso": "SCÈNE",
-                    "texte": "GARDIEN MIDITRA"
-                },   
-                
-                {
-                    "perso": "Gardien",
-                    "texte": "Misy vehivavy iray ao mi-insiste hitady asa hono na dia mpanary fako ary!"
-                },
-
-                {
-                    "perso": "Patron",
-                    "texte": "Asaivo miditra izy dia hita eo"
-                },
-
-                {
-                    "perso": "SCÈNE",
-                    "texte": "Gaga ny rehetra rehefa nanala ny saron-dohany fa i Vola\n NIFONA I VOLA"
-                },
-
-                {
-                    "perso": "Jery",
-                    "texte": "Raha ny nataonao taminay mianaka dia tsy tiako akory na dia ny hahita ny endrikao ary! Mafy tena mafy taminay mianaka izany! Fa noho ny amin'ny tenin'Andriamanitra hoe mandefera na dia ny amin'ny tsy rariny ary dia tsy maninona fa mamela anao izahay ary tsy hamaly faty ny nataonao anay mianaka! manindry fo noho ny aminao izahay!"
-                },   
-                
-                {
-                    "perso": "SCÈNE",
-                    "texte": "MIFAMIHINA ARY MANOLO NY AKANJO \n MANISY PERATRA NY TANANY \n \nDIA HAMALY FATY VE!!!"
-                }
-
-            ]
-        }
-    ],
-    "personnages": [
-        "Patron",
-        "Jery",
-        "Gaston",
-        "Vola",
-        "Mpiara-miasa(Ratsy saina)",
-        "Mpiara-miasa(tsara fanahy)",
-        "Maman'i Vola",
-        "Mme Patron",
-        "Mpividy",
-        "Gardien",
-        "SCÈNE"
-    ]
-},
-
-{
-    "id": "tantara_002",
-    "titre": "Fanasin'ny tany",
-    "actes": [
-        {
-            "id": 1,
-            "lieu": "ACTE1 (Ao am-piasana)",
-            "contexte": "Jery sy ny mpiara miasa aminy(Lehilahy 2 + vehivavy 1)",
-            "dialogues": [
-                {
-                    "perso": "Mpiara-miasa(Ratsy saina)",
-                    "texte": "Fa inona ity maka 19 ity, efa tapitra ny ora mbola eo ihany \n Ajanony any io fa mandraraka! \n Tsy aleonao mba mivoaka kely any... \n sady patron anie tsy ao ehh!! Mba mialaala kely aloha."
-                },
-                {
-                    "perso": "Jery",
-                    "texte": "Na tsy eo ary Patron dia tsy maintsy miasa, ny Tenin'ny Tompo miteny hoe izay rehetra ataonareo dia ataovy @ fitiavana, Mamita asa kely aho dia andeha hisakafo aho"
-                },
-                {
-                    "perso": "SCÈNE",
-                    "texte": " Mamita asa i Jery aveo lasa nisakafo"
-                },
-                {
-                    "perso": "SCÈNE",
-                    "texte": "Misy olona tonga hividy zavatra"
-                },
-                {
-                    "perso": "Mpiara-miasa(Ratsy saina)",
-                    "texte": "MANDRAY IREO OLONA TONGA IVIDY \n SADY NAKA TOMBONY AMBONY BE"
-                },
-                {
-                    "perso": "Mpividy",
-                    "texte": "Gaga fa niakatra be ny vidin'entana \n Ary lasa aiza ilay mpiasa iray iny(Jery)? \n fa iny foana no fangalanay entana"
-                },
-                {
-                    "perso": "Mpiara-miasa(Ratsy saina)",
-                    "texte": "Efa voaroaka iny fa nadikodina vola, \n tsy ato intsony izy"
-                },
-                {
-                    "perso": "Mpividy",
-                    "texte": "Tsy mety ilay prix fa aleo mitady hafa"
-                },
-                {
-                    "perso": "Mpiara-miasa(Ratsy saina)",
-                    "texte": "Nifamaly fa naka tombony 50% kosa ve!!!"
-                },
-                {
-                    "perso": "SCÈNE",
-                    "texte": "Niverina avy nisakafo i Jery"
-                },
-                {
-                    "perso": "Mpividy",
-                    "texte": "Niverina hividy ilay entana \n Fa angaha hianao mbola ato fa tsy hoe voaroaka? \n Nanontany prix dia gaga fa tsy niakatra akory"
-                },
-                {
-                    "perso": "SCÈNE",
-                    "texte": "Nampidirina tao anaty camion ny entana\n Hitan'izy 3 mianadahy izany dia tezitra zareo fa hoe lasan'i Jery ny Kil..."
-                }
-            ]
-        }
-        
-    ],
-    "personnages": [
-        "Patron",
-        "Jery",
-        "Gaston",
-        "Vola",
-        "Mpiara-miasa(Ratsy saina)",
-        "Mpiara-miasa(tsara fanahy)",
-        "Maman'i Vola",
-        "Mme Patron",
-        "Mpividy",
-        "Gardien",
-        "SCÈNE"
-    ]
-},
-{
-    "id": "tantara_003",
-    "titre": "Fanasin'ny tany 02",
-    "actes": [
-        {
-            "id": 1,
-            "lieu": "ACTE1 (Ao am-piasana)",
-            "contexte": "Jery sy ny mpiara miasa aminy(Lehilahy 2 + vehivavy 1)",
-            "dialogues": [
-                {
-                    "perso": "Mpiara-miasa(Ratsy saina)",
-                    "texte": "Fa inona ity maka 19 ity, efa tapitra ny ora mbola eo ihany \n Ajanony any io fa mandraraka! \n Tsy aleonao mba mivoaka kely any... \n sady patron anie tsy ao ehh!! Mba mialaala kely aloha."
-                },
-                {
-                    "perso": "Jery",
-                    "texte": "Na tsy eo ary Patron dia tsy maintsy miasa, ny Tenin'ny Tompo miteny hoe izay rehetra ataonareo dia ataovy @ fitiavana, Mamita asa kely aho dia andeha hisakafo aho"
-                },
-                {
-                    "perso": "SCÈNE",
-                    "texte": " Mamita asa i Jery aveo lasa nisakafo"
-                },
-                {
-                    "perso": "SCÈNE",
-                    "texte": "Misy olona tonga hividy zavatra"
-                },
-                {
-                    "perso": "Mpiara-miasa(Ratsy saina)",
-                    "texte": "MANDRAY IREO OLONA TONGA IVIDY \n SADY NAKA TOMBONY AMBONY BE"
-                },
-                {
-                    "perso": "Mpividy",
-                    "texte": "Gaga fa niakatra be ny vidin'entana \n Ary lasa aiza ilay mpiasa iray iny(Jery)? \n fa iny foana no fangalanay entana"
-                },
-                {
-                    "perso": "Mpiara-miasa(Ratsy saina)",
-                    "texte": "Efa voaroaka iny fa nadikodina vola, \n tsy ato intsony izy"
-                },
-                {
-                    "perso": "Mpividy",
-                    "texte": "Tsy mety ilay prix fa aleo mitady hafa"
-                },
-                {
-                    "perso": "Mpiara-miasa(Ratsy saina)",
-                    "texte": "Nifamaly fa naka tombony 50% kosa ve!!!"
-                },
-                {
-                    "perso": "SCÈNE",
-                    "texte": "Niverina avy nisakafo i Jery"
-                },
-                {
-                    "perso": "Mpividy",
-                    "texte": "Niverina hividy ilay entana \n Fa angaha hianao mbola ato fa tsy hoe voaroaka? \n Nanontany prix dia gaga fa tsy niakatra akory"
-                },
-                {
-                    "perso": "SCÈNE",
-                    "texte": "Nampidirina tao anaty camion ny entana\n Hitan'izy 3 mianadahy izany dia tezitra zareo fa hoe lasan'i Jery ny Kil..."
-                }
-            ]
-        }
-        
-    ],
-    "personnages": [
-        "Patron",
-        "Jery",
-        "Gaston",
-        "Vola",
-        "Mpiara-miasa(Ratsy saina)",
-        "Mpiara-miasa(tsara fanahy)",
-        "Maman'i Vola",
-        "Mme Patron",
-        "Mpividy",
-        "Gardien",
-        "SCÈNE"
-    ]
-}
+[
+    {
+        "id": "tantara_001",
+        "titre": "DIA HAMALY FATY VE",
+        "actes": [
+            {
+                "id": 1,
+                "lieu": "ACTE1 (Ao am-piasana)",
+                "contexte": "Jery sy ny mpiara miasa aminy(Lehilahy 2 + vehivavy 1)",
+                "dialogues": [
+                    {
+                        "perso": "Mpiara-miasa(Ratsy saina)",
+                        "texte": "Fa inona ity maka 19 ity, efa tapitra ny ora mbola eo ihany \n Ajanony any io fa mandraraka! \n Tsy aleonao mba mivoaka kely any... \n sady patron anie tsy ao ehh!! Mba mialaala kely aloha."
+                    },
+                    {
+                        "perso": "Jery",
+                        "texte": "Na tsy eo ary Patron dia tsy maintsy miasa, ny Tenin'ny Tompo miteny hoe izay rehetra ataonareo dia ataovy @ fitiavana, Mamita asa kely aho dia andeha hisakafo aho"
+                    },
+                    {
+                        "perso": "SCÈNE",
+                        "texte": " Mamita asa i Jery aveo lasa nisakafo"
+                    },
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "Misy olona tonga hividy zavatra"
+                    },
+                    {
+                        "perso": "Mpiara-miasa(Ratsy saina)",
+                        "texte": "MANDRAY IREO OLONA TONGA IVIDY \n SADY NAKA TOMBONY AMBONY BE"
+                    },
+                    {
+                        "perso": "Mpividy",
+                        "texte": "Gaga fa niakatra be ny vidin'entana \n Ary lasa aiza ilay mpiasa iray iny(Jery)? \n fa iny foana no fangalanay entana"
+                    },
+                    {
+                        "perso": "Mpiara-miasa(Ratsy saina)",
+                        "texte": "Efa voaroaka iny fa nadikodina vola, \n tsy ato intsony izy"
+                    },
+                    {
+                        "perso": "Mpividy",
+                        "texte": "Tsy mety ilay prix fa aleo mitady hafa"
+                    },
+                    {
+                        "perso": "Mpiara-miasa(Ratsy saina)",
+                        "texte": "Nifamaly fa naka tombony 50% kosa ve!!!"
+                    },
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "Niverina avy nisakafo i Jery"
+                    },
+                    {
+                        "perso": "Mpividy",
+                        "texte": "Niverina hividy ilay entana \n Fa angaha hianao mbola ato fa tsy hoe voaroaka? \n Nanontany prix dia gaga fa tsy niakatra akory"
+                    },
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "Nampidirina tao anaty camion ny entana\n Hitan'izy 3 mianadahy izany dia tezitra zareo fa hoe lasan'i Jery ny Kil..."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "lieu": "ACTE2 (Ao am-piasana)",
+                "contexte": "Jery sy ny mpiara miasa aminy, Patron, Mme Patron",
+                "dialogues": [
+                    {
+                        "perso": "Mpiara-miasa(Ratsy saina)",
+                        "texte": "(TEZITRA)\n Andao atao amin'ny fanaovana azy iny Jery iny, potehina ny fiainany fa mianakendry ato am-piasana ato."
+                    },
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "Miditra i Patron dia gaga mahita azy 3 mianadahy"
+                    },
+                    {
+                        "perso": "Patron",
+                        "texte": "Toa laozanareo miresaka fotsiny fa tsy miasa?"
+                    },
+                    {
+                        "perso": "Mpiara-miasa(Ratsy saina)",
+                        "texte": "Avy niasa be de maka aina, vao avy nampiakatra entana be @ taonina tao anaty camion."
+                    },
+                    {
+                        "perso": "Patron",
+                        "texte": "Nanontany an'i Jery??"
+                    },
+                    {
+                        "perso": "Mpiara-miasa(Ratsy saina)",
+                        "texte": "Zay indrindra... \n I Jery tena tsy mamely...\n Hitanao , mody mitarika fivavahana fivavahana nefa mikomy no ataony ao, tsy mahavelona hono ny karamana omenao eh! Manaratsy anao no ataony ao!"
+                    },
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "Gaga patron fa tsy nampoinziny hoe jery ..."
+                    },
+                    {
+                        "perso": "Mpiara-miasa(Ratsy saina)",
+                        "texte": "Sady l menatra aho patron @ maha vehivavy ahy an! Nefa ho lazaiko ihany hatramin'ny vadinao anie patron ka adaladalainy el taraiky aminy mihitsy eh!\n Mitady ho lasany mihitsy ny fahitako azy!"
+                    },
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "Miditra Mme Patron..."
+                    },
+                    {
+                        "perso": "Mme Patron",
+                        "texte": "Ary toa laozanao mampiresaka mpiasa fotsiny\nAiza l Jery ! mba teneno aho rehefa tonga eo izy dia avelao hiasa ny mpiasa fa aza ampiresahanao fontsny eo!"
+                    },
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "Mangala-pijery an'l Patron izy telo mianadahy..."
+                    },
+                    {
+                        "perso": "Patron",
+                        "texte": "Lasa daholy miasa any ! haingana mivoaka daholo sady mitady hidaroka !\nhaingana fa aza midororororo eo dia asaivo makaty l Jery"
+                    },
+                    {
+                        "perso": "Jery",
+                        "texte": "Nampiantso ahy hono Tompoko !"
+                    },
+                    {
+                        "perso": "Patron",
+                        "texte": "Ye ! zao an ! ataovy daholo ny compte rehetra ao ! dia passio amin'ny tompon'andraikitra an dia ataoy koa ny comptenao rehetra , izay karama mbola tsy voaloha fa ho efaiko daholo, raofy daholo ny entanao dia lasa!"
+                    },
+                    {
+                        "perso": "Jery",
+                        "texte": "Tsy azoko patron fa misy inona !"
+                    },
+                    {
+                        "perso": "Patron",
+                        "texte": "Tsy misy fanazavana fa ataovy haingana izay dia mandalova eto maka ny volanao rehetra ! mazava"
+                    },
+                    {
+                        "perso": "Jery",
+                        "texte": "Jesosy ô ! tena tsy azoko hoe fa maninona ............"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "lieu": "ACTE3 (Ao an-tranon'i Jery)",
+                "contexte": "Jery sy Vola, Mpiara-miasa(tsara fanahy)",
+                "dialogues": [
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "Jery mamaky Baiboly"
+                    },
+                    {
+                        "perso": "Vola",
+                        "texte": "Efa izao no nahavoaroaka anao tamin'ny asanao koa mbola zao ihany no atao ! tsy mba leom-boananana mihitsy ! \nZao an ! vola an mila vola, ny fiainana tsy vita amin'izao koa noho izany an , mivoaha hianao mitady vola fa tsy laozanao eo ! andeha aho an , tandremo sao mbola mijanona eo fa mahita asa hianao tonga eo aho ! mazava an"
+                    },
+                    {
+                        "perso": "Jery",
+                        "texte": "Ol ry vola a , jereo ange ny zanakindry mitomany ery ! mba jereo na dia ilay zaza ary! \n(MIVAVAKA I JERY SADY MITOMANY)"
+                    },
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "Miditra mampahery an'i Jery ireo mpiara-miasa(tsara fanahy) aminy"
+                    },
+                    {
+                        "perso": "Mpiara-miasa(tsara fanahy)",
+                        "texte": "olona mahitsy hianao...\n Ity misy tsipaipaika kely nataon'ny mpiara-miasa ho fanampiana anao , solontena izahay nakaty fa mivavaka ho anao daholo ny mpiara - miasa rehetra...."
+                    },
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "MIVAVAKA, MIDITRA I VOLA"
+                    },
+                    {
+                        "perso": "Vola",
+                        "texte": "Mbola izao ihany no hatao ato?! Efa izao no nahavoaroaka dia mbola mivavaka ihany! Andeha aho an! Tsy fahananao anana eto foana aho an, efa maintso hatramin'ny tsinaiko ...lasa aho(sady mangoron'entana) sady Gaston efa miandry ahy"
+                    },
+                    {
+                        "perso": "Jery",
+                        "texte": "Vola an , mijanona moa e! jereo ange ny zanantsika eh !"
+                    },
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "LASA I VOLA, MITOMANY NY ZAZA, MIVAVAKA I JERY"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "lieu": "ACTE4 (Ao an-tranon'l Gaston)",
+                "contexte": "Gaston, Vola, Mpiara-miasa(tsara fanahy), Maman'i Vola, Mpiara-miasa(Ratsy fanahy)",
+                "dialogues": [
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "Faly ery l vola migalabona @ haren' l Gaston : trano , fiara , vola sy harena"
+                    },
+                    {
+                        "perso": "Mpiara-miasa(tsara fanahy)",
+                        "texte": "Mba sahy ndry ka: lehilahy tsotra, manam-panahy sady mivavaka , raha mbola tsy nanam-bady aho mba tena efa saika latsaka taminy mihitsy ! .......mbola hanenina ndry......lasa izy"
+                    },
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "MANDONDONA I NENY"
+                    },
+                    {
+                        "perso": "Maman'i Vola",
+                        "texte": "Tsy te hiditra akory aho fa toka-trano imaso fahatavetana eo imason'Andriamanitra! mba mahalala menatr'olona! zao an! Hilaza amin'dry aho hoe marary ny zanakindry! malahelo andry! marary fo! Raha mba fon-dreny ihany dia mba jereo ilay zaza ! zay fa lasa aho Isao hanenenana ..."
+                    },
+                    {
+                        "perso": "Vola",
+                        "texte": "Fika fotsiny izany! izaho indray dia tsy hiverina any izany"
+                    },
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "Miditra gaston mamo, mitsena l Vola dia gaga fa nahita loko-mena tamin'ny tarehiny dia tamin'ny vozon'akanjony"
+                    },
+                    {
+                        "perso": "Vola",
+                        "texte": "Fa inona ireny???"
+                    },
+                    {
+                        "perso": "Gaston",
+                        "texte": "Bandy tsy maitsy manao an'izany! mandeha mirevy dia manala azy! hianao no adala no te hijanona eo!\n Ny anao adalana ny te hanary ny vady aman-janakao! vehivavy kely saina tsy misy hilàvana azy! Lasa mandeha any fa tsy..........."
+                    },
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "MIDITRA NY MPIARA-MIASA AMIN'I GASTON"
+                    },
+                    {
+                        "perso": "Mpiara-miasa(Ratsy saina)",
+                        "texte": "Andao hitsoaka fa tratra daholo ny hosoka tamin'ny bokim-bola rehefa natao ny audit i"
+                    },
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "NISAVA NY TOAKAN'I GASTON ARY LASA NITSOAKA"
+                    },
+                    {
+                        "perso": "Vola",
+                        "texte": "Gaston!! avia fa ho aiza ianao ........."
+                    },
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "NAHIFIK'I GASTON I VOLA"
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "lieu": "ACTE FAMARANANA (Ao am-piasana)",
+                "contexte": "Patron, Jery, Mpiara-miasa, Gardien, Vola",
+                "dialogues": [
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "Ao am-piasana misy fety nataon'ny talen'ny orinasa"
+                    },
+                    {
+                        "perso": "Patron",
+                        "texte": "Natao izao fety izao mba hanonerana ireo zavatra nahazo an'l Jery rehetra, rehefa natao mantsy ny fanadihadiana rehetra dia hita fa tsy i Jery no  tokony ho noroahina! \n \nFa nisy fanasoketana azy be dia be tao dia mifona aminao aho! Ary ankehitriny dia fantatro fa mendrika ho anao ny hitantana ny orinasa , ho tale jeneraly ary aloako daholo ny vola rehetra tokony noraisinao nandritr'izay tsy nandraisanao karama izay! \n(faly ny rehetra)"
+                    },
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "GARDIEN MIDITRA"
+                    },
+                    {
+                        "perso": "Gardien",
+                        "texte": "Misy vehivavy iray ao mi-insiste hitady asa hono na dia mpanary fako ary!"
+                    },
+                    {
+                        "perso": "Patron",
+                        "texte": "Asaivo miditra izy dia hita eo"
+                    },
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "Gaga ny rehetra rehefa nanala ny saron-dohany fa i Vola\n NIFONA I VOLA"
+                    },
+                    {
+                        "perso": "Jery",
+                        "texte": "Raha ny nataonao taminay mianaka dia tsy tiako akory na dia ny hahita ny endrikao ary! Mafy tena mafy taminay mianaka izany! Fa noho ny amin'ny tenin'Andriamanitra hoe mandefera na dia ny amin'ny tsy rariny ary dia tsy maninona fa mamela anao izahay ary tsy hamaly faty ny nataonao anay mianaka! manindry fo noho ny aminao izahay!"
+                    },
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "MIFAMIHINA ARY MANOLO NY AKANJO \n MANISY PERATRA NY TANANY \n \nDIA HAMALY FATY VE!!!"
+                    }
+                ]
+            }
+        ],
+        "personnages": [
+            "Patron",
+            "Jery",
+            "Gaston",
+            "Vola",
+            "Mpiara-miasa(Ratsy saina)",
+            "Mpiara-miasa(tsara fanahy)",
+            "Maman'i Vola",
+            "Mme Patron",
+            "Mpividy",
+            "Gardien",
+            "SCÈNE"
+        ]
+    },
+    {
+        "id": "tantara_002",
+        "titre": "en cours....",
+        "actes": [
+            
+        ]
+       
+    }
 ]
