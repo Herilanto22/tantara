@@ -1,4 +1,3 @@
-
 [
     {
         "id": "tantara_001",
@@ -292,10 +291,123 @@
     },
     {
         "id": "tantara_002",
-        "titre": "FANASIN'NY TANY",
+        "titre": "ANDRIAMANITRA MANANGANA NY OLONY KA MANDRINGANA NY FAHAVALONY",
         "actes": [
-            
+            {
+                "id": 1,
+                "lieu": "ACTE1",
+                "contexte": "NY ZI NANAO ASA FANANDEVOZANA, A/tra  NANIRAKA AN'I MOSESY",
+                "dialogues": [
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "Nandritry ny 400 taona ny Zanak’Israely (ZI) dia nandevozin’ny Egyptianina tamin’ny tany Egypta. Nijaly sy nampahoriana tamin’ny asa fanompoana mafy izay nampanaovin’ny Egyptianina azy. Nokapohina sady noterena hanatanteraka asa anterivozona mafy dia mafy."
+                    },
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "Rehefa azom-pahoriana mafy izy dia nitaraina tamin’i Jehovah, dia naniraka an’i Mosesy Andriamanitra ka nilaza taminy hoe: \n« ary ankehitriny, Indro ny fitarainan’ny ZI dia efa mby aty Amiko sady efa hitako koa ny fahoriany izay ampahorian’ny Egyptianina azy, ko avia ankehitriny ianao hirahiko ho any amin’ny Farao, hitondra ny ZI koo hivoaka avy any Egypta » Eks 3 : 9-10"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "lieu": "ACTE2",
+                "contexte": "ZI nampijaliana + Farao nitrontro ny zanany voarinan’ny anjely ka nandefa ny ZI + Mosesy sy Arona.",
+                "dialogues": [
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "Namafisin’Andriamanitra ny fon’ny Farao tsy nandefefa ny ZI ho afaka raha tsy tamin’ny loza fahafolo izay nandringanan’Andriamanitra ny voalohan-teraka rehetra na olona na biby.\nMaty ny zanaka lahitokan’i Farao ka nandefa ny ZI ho afaka izy.\nNataon’Andriamanitra nahita fitia teo imason’ny Egyptianina ny ZI ka nitondra ny volament sy ny fana ka sarobidy araka izay nilainy. Ka nivoka tamin’kafaliana izy ireo."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "lieu": "ACTE3",
+                "contexte": "ZI niodina tany an-efitra, tonga teo amin’ny ranomasina mena.",
+                "dialogues": [
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "Nalefan’i Farao ny olona dia tsy mba nentin’Andriamanitra tamin’ny lalana nakany amin’ny filistina izy na dia akaiky aza izany fa hoy Andriamanitra hoe : « Andrao hanenina ny olona raha mahita ady ka hiverina any Egypta » ka nentin’Andriamanitra nivily ho amin’ny lalana mahazo ny efitra ». ary Jehovah nandeha teo alohany tamin’ny andri-rahona raha antoandro hitari-dalana azy ary tamin’ny Andri-afo nony alina ho fahazavana ho azy."
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "lieu": "ACTE4",
+                "contexte": "ZI teo amoron’ny ranomasina mena, mosesy nanokatra + ZI namaky ranomasina ka nandeha tany maina. (ranomasina)",
+                "dialogues": [
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "Rehefa teo amoron’ny ranomasina mena ny ZI, dia nimonomonona tamin’ny Mosesy. Mosesy nitaraina tamin’i Jehovah ka hoy Izy hoe « nahoana no mitaraina amiko ianao Lazao amin’ny ZI mba handroso ».\n \nMosesy naninjitra ny tehany ka noarahany ny rano.\n \nNisokatra ny ranomasina ka nandeha tany maina ny Olona."
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "lieu": "ACTE5",
+                "contexte": "Tafita ny ZI + nanenjika ny miarailan’i Farao + nikatona ny Ranomasina",
+                "dialogues": [
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "Rehefa tafita daholo ny ZI dia hoy Andriamanitra tamin’i Mosesy « ahinjito eo ambonin’ny ranomasina ny tananao mba hikatona ny rano amin’ny Egyptianina mbamin’ny kalesiny sy ny mpitaingin-tsoavaliny ».\n \nDia nikatona ny ranomasina ka nanarona ny kalesy sy ny mpitaingin-tsoavaly ka tsy nisy niangana na dia iray akory aza.\n \nIzany no namonjen’Andriamanitra ny Israely tamin’izany andro izany, tsy ho azon’ny Egyptianina... rehefa hitan’ny Israely ny asa lehibe nataon’ny tanan’i Jehovah tamin’ny Egyptianina, dia natahotra an’i Jehovah ny olona ka nino an’i Jehovah sy Mosesy Mpanompony."
+                    }
+                ]
+            }
+        ],
+        "personnages": [
+            "Vahoaka"
         ]
-       
+    },
+    {
+        "id": "tantara_003",
+        "titre": "AZO IALANA NY FANDRINGANANA",
+        "actes": [
+            {
+                "id": 1,
+                "lieu": "ACTE1",
+                "contexte": "Andriamanitra naniraka an’i Jona\nJona nandositra ho any Tarsisy",
+                "dialogues": [
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "Mitsangana, mankanesa any Ninive, tanàna lehibe, ary miantsoa ny amin’ny amelezana azy fa tafakatra eto anatrehako ny faharatsiany.\n \nJona nandositra ny tavan’i Jehovah araka ny soratra masina hoe «nefa Jona nitsangana nandositra ho any Tarsisy mba hiala eo anatrehan’I Jehovah, ary nidina tany Jopa izy ka nita sambo handositra hoa any Tarsisy »"
+                    }
+                ]
+            },
+
+            {
+                "id": 2,
+                "lieu": "ACTE2",
+                "contexte": "Nanonja mafy ny ranomasina.\nNivavaka ny matilo tamin’andriamaniny,\nEntana natsipy tanaty rano\nNofoazina Jona\nNanao filokana Jona no voafidy\nJona natsipy tao anaty rano",
+                "dialogues": [
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "Jehovah nahatonga rivotra mahery teny ambony ranomasina dia nanonja mafy ny ranomasina ka dia hita fa toa vaky ny sambo.\n \nNanonja mafy ny rano, raiki-tahotra ny matilo ka samy nivavaka tamin’andriamaniny, sady nariana tanaty rano ny zavatra tao anaty sambo, Jona renoky ny torimaso dia nofoazina, mitsanana ka antsoy ny Andriamanitrao,\n \nDia samy nanao tamin’ny namany hoe izy avia isika anao filokana mba izahantsika izay mahatonga izao loza izao, Jona no azo (Jona 1:4-7)\n \nJona no azo, nifona tamin’I Jehovah izy ireo ka nanipy an’i Jona tao anaty ranomasina.\n \nTONY NY RANOMASINA"
+                    }
+                ]
+            },
+
+             {
+                "id": 3,
+                "lieu": "ACTE3",
+                "contexte": "Jona tao anaty kibon’ny hazandrano\nJona Nivavaka\nJona naloan’ny hazandrano",
+                "dialogues": [
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "Naniraka hazandrano Andriamanitra nitelina an’i Jona, ary izy nivavaka tamin’i Jehovah Andriamanitra ka hoy izy : « Niantso an’i Jehovah tamin’ny fahoriako aho dia namaly ahy izy »\n \nAry Jehovah nandidy ny hazandrano ka naloany ho eny amin’ny tany maina Jona"
+                    }
+                ]
+            },
+
+             {
+                "id": 4,
+                "lieu": "ACTE4",
+                "contexte": "Jona nirahan’Andriamanitra indray tany Ninive\nJona nakany Ninive\nNinive niaino ka nibebaka\nMpanjaka an’i Ninive ko nibebaka",
+                "dialogues": [
+                    {
+                        "perso": "SCÈNE",
+                        "texte": "Tonga tami’ny Jona ny tenin’i Jehovah nanao hoe « Mitsangana ka mankanesa any Ninive, ka torio izay nilazaiko taminao ».\n \nNitsangana nankany Ninive Jona ka nilaza hoe : tanàna lehibe, ary miantsoa ny amin’ny amelezana azy fa tafakatra eto anatrehako ny faharatsiany.\n \nAry raha nahare izany ny mpanjaka dia nandritra ny fitafiany ka nitafy lamba fisaonana ka namoaka didy hoe : Aza avela hisy hanendry hanina akory na olona na biby fiompy... aza avela hisy hihinana na hisotro rano akory ireo, fa aoka samy hisarona lamba fisaonana ny olona sy ny biby fiompy ary aoka hitaraina mafy amin’Andriamanitra avy izy rehetra, ary aoka samy hahafoy ny lalany ratsy sy ny fandozana eny an-tanany avy izy rehetra. Fa angamba hiverina ihany Andriamanitra ka hanenina ary hiala ny fahatezerany mirehitra mba tsy ho lany ritra isika ?\n \n« Ary rehefa itan’Andriamanitra ny nataon’ireo ny amin’ny niala tamin’ny lalan-dratsiny, dia nanenina Izy ny amin’ny loza izay nolazainy hamelezana azy ka tsy nataony izany »"
+                    }
+                ]
+            }
+        ]
     }
 ]
