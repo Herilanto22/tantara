@@ -1,0 +1,23 @@
+ext {
+    ext {
+        minSdkVersion = 24  // Remplace 22 par 24 ici
+        compileSdkVersion = 35
+        targetSdkVersion = 35
+
+        // Garde le reste des versions "redescendues" qu'on a fixées ensemble :
+        androidxActivityVersion = '1.9.3'
+        androidxCoreVersion = '1.13.1'
+        // ...
+    }
+    // Versions compatibles avec AGP 8.8.0 :
+    androidxAppCompatVersion = '1.7.0'
+    androidxCoordinatorLayoutVersion = '1.2.0'
+    androidxFragmentVersion = '1.8.0'
+    coreSplashScreenVersion = '1.0.1'
+    androidxWebkitVersion = '1.12.0'
+
+    junitVersion = '4.13.2'
+    androidxJunitVersion = '1.2.1'
+    androidxEspressoCoreVersion = '3.6.1'
+    cordovaAndroidVersion = '13.0.0'
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Theatry</string>
+    <string name="title_activity_main">Theatry</string>
+    <string name="package_name">com.theatry.app</string>
+    <string name="custom_url_scheme">com.theatry.app</string>
+</resources>
